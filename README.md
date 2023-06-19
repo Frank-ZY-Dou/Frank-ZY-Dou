@@ -5,7 +5,7 @@
 
 This is [Zhiyang (Frank) Dou](https://frank-zy-dou.github.io/).  I am a third-year Ph.D. candidate in CG and CV Group at the University of Hong Kong, supervised by [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku). I received my B. Eng. degree with honors at Shandong University. My undergraduate research advisor is [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html).
 
-**Research interests**: Character Animation, Geometric Modeling and Processing, Computer Graphics.
+**Research interests**: 3D Vision, Character Animation, Geometric Modeling and Processing, Computer Graphics.
 
 I am receptive to engaging in discussions and exploring novel ideas. Please feel free to contact me ([email](zhiyang0@connect.hku.hk)).
 
