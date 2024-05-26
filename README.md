@@ -8,5 +8,5 @@ I am a member of AnySyn3D, where we create and build a realistic virtual world ð
 
 **Research Interests**: Character Animation, Geometric Modeling and Processing, Computer Graphics, Human Behavior Analysis (Capture, Modeling and Simulation).
 
-I am receptive to engaging in discussions and exploring novel ideas. Please feel free to contact me ([email](zhiyang0@connect.hku.hk)).
+I am receptive to engaging in discussions and exploring novel ideas. Please feel free to contact me (frankzydou@gmail.com; zhiyang0@connect.hku.hk).
 
