@@ -6,7 +6,7 @@ This is [Zhiyang (Frank) Dou](https://frank-zy-dou.github.io/). I am a fourth-ye
 I am currently a visiting scholar in the Department of Computer and Information Science at the [University of Pennsylvania](https://www.upenn.edu/), working with [Prof. Lingjie Liu](https://lingjie0206.github.io/) at Computer Graphics Lab and [GRASP Lab](https://www.grasp.upenn.edu/).<br>
 I am a member of AnySyn3D, where we create and build a realistic virtual world 🌎.
 
-**Research Interests**: Character Animation, Geometric Modeling and Processing, Computer Graphics, Human Behavior Analysis (Capture, Modeling and Simulation).
+**Research Interests**: Character Animation, Geometric Modeling and Processing, Simulation, Computer Graphics, Human Behavior Analysis (Capture, Modeling and Simulation).
 
 I am receptive to engaging in discussions and exploring novel ideas. Please feel free to contact me (frankzydou@gmail.com; zhiyang0@connect.hku.hk).
 
